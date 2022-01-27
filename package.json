@@ -1,0 +1,11 @@
+{
+  "name": "jsonparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsonParser.js",
+  "scripts": {
+    "test": "node jsonParser.js"
+  },
+  "author": "akanksha",
+  "license": "ISC"
+}
