@@ -4,8 +4,12 @@
   "description": "",
   "main": "jsonParser.js",
   "scripts": {
-    "test": "node jsonParser.js"
+    "test": "node jsonParser.js",
+    "spreadsheetReport":"node spreadSheetReport.js"
   },
   "author": "akanksha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^3.2.0"
+  }
 }
